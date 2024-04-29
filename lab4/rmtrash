@@ -1,0 +1,26 @@
+#!/bin/bash
+
+trash=".trash"
+log=".trash.log"
+
+mkdir -p "$HOME/$trash"
+
+
+file_path=$(realpath ./"$1")
+if ! [ -f "$file_path" ]; then 
+	echo "$file_path not exist"
+	exit 1
+fi
+file_name=$(basename "$file_path")
+
+
+count=0
+while [[ -e "$HOME/$trash/${file_name}_$count" ]] ; do
+    ((count=count + 1))
+done
+
+
+ln "$file_path" "$HOME/$trash/${file_name}_$count" &&
+rm "$file_path" &&
+echo "$file_path ${file_name}_$count" >> "$HOME/$log" &&
+echo "Successfully deleted file $file_path"

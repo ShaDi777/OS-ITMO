@@ -1,0 +1,30 @@
+#!/bin/bash
+
+interval=5
+executable="/root/labworks/lab2/task4"
+temp_executable="temp_executable_file"
+
+cp "$executable" "$temp_executable"
+echo -e "\n" >> "$temp_executable"
+echo "sleep 999" >> "$temp_executable"
+
+pid=$(pgrep -x "$(basename $executable)")
+
+if [ -n "$pid" ]
+then
+	kill -9 "$pid"
+fi
+
+echo "Starting executable..."
+bash "$temp_executable" &
+pid=$!
+
+sleep $interval
+
+read_bytes=$(grep "read_bytes" /proc/$pid/io | awk '{print $2}')
+
+kill -9 $pid > /dev/null 2>&1
+
+echo "PID:$pid read $read_bytes bytes"
+
+rm $temp_executable

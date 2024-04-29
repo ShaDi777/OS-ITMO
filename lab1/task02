@@ -1,0 +1,10 @@
+#!/bin/bash
+total=""
+input=""
+read input
+while [ "$input" != "q" ]
+do
+	total="${total}${input}"
+	read input
+done
+echo "$total"

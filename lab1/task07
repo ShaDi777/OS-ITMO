@@ -1,0 +1,7 @@
+#!/bin/bash
+touch emails.lst
+grep -r -h -E -o '\b[A-Za-z]+@[A-Za-z]+.[A-Za-z]+\b' /etc/* | tr '\n' ',' > emails.lst
+# -r recursive
+# -h without filenames where email is located
+# -E extended regex
+# -o exact match of pattern, not a full string

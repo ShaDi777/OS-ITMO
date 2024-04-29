@@ -1,0 +1,147 @@
+top - 22:21:17 up  2:54,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 111 total,   4 running, 107 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.0 us, 20.0 sy,  0.0 ni,  0.0 id,  0.0 wa, 60.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1394.4 free,    251.7 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.   1433.5 avail Mem 
+   3968 root      20   0  290072  70572   2992 R  81.2   3.8   0:00.71 mem.bash
+
+top - 22:21:18 up  2:54,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 113 total,   5 running, 108 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.3 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa, 50.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1314.6 free,    331.5 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.   1353.7 avail Mem 
+   3968 root      20   0  370988 151620   2992 R  76.5   8.1   0:01.68 mem.bash
+
+top - 22:21:19 up  2:54,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 111 total,   3 running, 108 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa, 50.0 hi, 16.7 si,  0.0 st
+MiB Mem :   1827.1 total,   1232.5 free,    413.5 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.   1271.6 avail Mem 
+   3968 root      20   0  455336 236100   2992 R  75.0  12.6   0:02.66 mem.bash
+
+top - 22:21:21 up  2:54,  1 user,  load average: 0.08, 0.02, 0.01
+Tasks: 113 total,   4 running, 109 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.3 us, 28.6 sy,  0.0 ni,  0.0 id,  0.0 wa, 42.9 hi, 14.3 si,  0.0 st
+MiB Mem :   1827.1 total,   1145.6 free,    500.5 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.   1184.6 avail Mem 
+   3968 root      20   0  543644 324276   2992 R  66.7  17.3   0:03.63 mem.bash
+
+top - 22:21:22 up  2:54,  1 user,  load average: 0.08, 0.02, 0.01
+Tasks: 111 total,   4 running, 107 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.0 us, 20.0 sy,  0.0 ni,  0.0 id,  0.0 wa, 40.0 hi, 20.0 si,  0.0 st
+MiB Mem :   1827.1 total,   1054.3 free,    591.8 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.   1093.3 avail Mem 
+   3968 root      20   0  637364 417996   2992 R  70.6  22.3   0:04.63 mem.bash
+
+top - 22:21:23 up  2:54,  1 user,  load average: 0.08, 0.02, 0.01
+Tasks: 111 total,   3 running, 108 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.6 us, 28.6 sy,  0.0 ni,  0.0 id,  0.0 wa, 42.9 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    982.3 free,    663.7 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.   1021.4 avail Mem 
+   3968 root      20   0  710756 491388   2992 R  70.6  26.3   0:05.59 mem.bash
+
+top - 22:21:24 up  2:54,  1 user,  load average: 0.08, 0.02, 0.01
+Tasks: 111 total,   3 running, 108 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa, 50.0 hi, 16.7 si,  0.0 st
+MiB Mem :   1827.1 total,    900.2 free,    745.8 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.    939.3 avail Mem 
+   3968 root      20   0  794708 575340   2992 R  76.5  30.8   0:06.60 mem.bash
+
+top - 22:21:26 up  2:54,  1 user,  load average: 0.23, 0.05, 0.02
+Tasks: 111 total,   4 running, 107 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.0 us, 20.0 sy,  0.0 ni,  0.0 id,  0.0 wa, 60.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    805.6 free,    840.5 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.    844.6 avail Mem 
+   3968 root      20   0  891332 671964   2992 R  76.5  35.9   0:07.62 mem.bash
+
+top - 22:21:27 up  2:54,  1 user,  load average: 0.23, 0.05, 0.02
+Tasks: 111 total,   3 running, 108 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.0 us, 20.0 sy,  0.0 ni,  0.0 id,  0.0 wa, 60.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    728.3 free,    917.8 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.    767.3 avail Mem 
+   3968 root      20   0  970400 750900   2992 R  76.5  40.1   0:08.60 mem.bash
+
+top - 22:21:28 up  2:54,  1 user,  load average: 0.23, 0.05, 0.02
+Tasks: 111 total,   4 running, 107 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14.3 us, 28.6 sy,  0.0 ni,  0.0 id,  0.0 wa, 42.9 hi, 14.3 si,  0.0 st
+MiB Mem :   1827.1 total,    653.6 free,    992.5 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.    692.6 avail Mem 
+   3968 root      20   0 1046696 827196   2992 R  76.5  44.2   0:09.59 mem.bash
+
+top - 22:21:29 up  2:54,  1 user,  load average: 0.23, 0.05, 0.02
+Tasks: 111 total,   4 running, 107 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.3 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa, 50.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    581.4 free,   1064.6 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.    620.5 avail Mem 
+   3968 root      20   0 1120352 900852   2992 R  76.5  48.2   0:10.57 mem.bash
+
+top - 22:21:31 up  2:54,  1 user,  load average: 0.30, 0.07, 0.02
+Tasks: 111 total,   3 running, 108 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.6 us, 28.6 sy,  0.0 ni,  0.0 id,  0.0 wa, 28.6 hi, 14.3 si,  0.0 st
+MiB Mem :   1827.1 total,    506.1 free,   1140.0 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.    545.1 avail Mem 
+   3968 root      20   0 1197440 977940   2992 R  81.2  52.3   0:11.55 mem.bash
+
+top - 22:21:32 up  2:54,  1 user,  load average: 0.30, 0.07, 0.02
+Tasks: 111 total,   5 running, 106 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa, 50.0 hi, 16.7 si,  0.0 st
+MiB Mem :   1827.1 total,    426.8 free,   1219.2 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.    465.9 avail Mem 
+   3968 root      20   0 1278356   1.0g   2992 R  76.5  56.6   0:12.55 mem.bash
+
+top - 22:21:33 up  2:54,  1 user,  load average: 0.30, 0.07, 0.02
+Tasks: 111 total,   2 running, 109 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.3 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa, 50.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    355.1 free,   1291.0 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.    394.1 avail Mem 
+   3968 root      20   0 1351616   1.1g   2992 R  81.2  60.5   0:13.52 mem.bash
+
+top - 22:21:34 up  2:54,  1 user,  load average: 0.30, 0.07, 0.02
+Tasks: 111 total,   2 running, 109 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us, 33.3 sy,  0.0 ni,  0.0 id,  0.0 wa, 33.3 hi, 16.7 si,  0.0 st
+MiB Mem :   1827.1 total,    279.0 free,   1367.0 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.    318.1 avail Mem 
+   3968 root      20   0 1429364   1.2g   2992 R  87.5  64.7   0:14.50 mem.bash
+
+top - 22:21:36 up  2:54,  1 user,  load average: 0.35, 0.08, 0.03
+Tasks: 111 total,   2 running, 109 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 33.3 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa, 50.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    201.5 free,   1444.5 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.    240.6 avail Mem 
+   3968 root      20   0 1508564   1.2g   2992 R  81.2  68.9   0:15.48 mem.bash
+
+top - 22:21:37 up  2:54,  1 user,  load average: 0.35, 0.08, 0.03
+Tasks: 111 total,   2 running, 109 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.0 us, 20.0 sy,  0.0 ni,  0.0 id,  0.0 wa, 60.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1827.1 total,    126.9 free,   1519.1 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.    166.0 avail Mem 
+   3968 root      20   0 1584728   1.3g   2992 R  75.0  73.0   0:16.46 mem.bash
+
+top - 22:21:38 up  2:54,  1 user,  load average: 0.35, 0.08, 0.03
+Tasks: 111 total,   3 running, 108 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa, 50.0 hi, 16.7 si,  0.0 st
+MiB Mem :   1827.1 total,     51.7 free,   1594.3 used,    181.0 buff/cache
+MiB Swap:    820.0 total,    593.9 free,    226.1 used.     90.8 avail Mem 
+   3968 root      20   0 1661552   1.4g   2992 R  75.0  77.1   0:17.44 mem.bash
+
+top - 22:21:43 up  2:54,  1 user,  load average: 0.64, 0.15, 0.05
+Tasks: 111 total,   5 running, 106 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.5 us, 39.0 sy,  0.0 ni,  0.0 id,  0.0 wa, 44.8 hi,  6.7 si,  0.0 st
+MiB Mem :   1827.1 total,     80.4 free,   1685.5 used,     61.2 buff/cache
+MiB Swap:    820.0 total,    421.5 free,    398.5 used.     38.0 avail Mem 
+   3968 root      20   0 1933340   1.5g    496 R   4.7  84.6   0:20.21 mem.bash
+
+top - 22:21:47 up  2:54,  1 user,  load average: 0.91, 0.21, 0.07
+Tasks: 111 total,   5 running, 106 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.8 us, 38.9 sy,  0.0 ni,  0.0 id,  0.0 wa, 55.6 hi,  2.8 si,  0.0 st
+MiB Mem :   1827.1 total,     62.2 free,   1699.7 used,     65.1 buff/cache
+MiB Swap:    820.0 total,    158.5 free,    661.5 used.     21.8 avail Mem 
+   3968 root      20   0 2213180   1.5g    688 R   7.1  85.0   0:22.83 mem.bash
+
+top - 22:21:50 up  2:54,  1 user,  load average: 1.32, 0.31, 0.10
+Tasks: 111 total,   5 running, 106 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.7 us, 42.9 sy,  0.0 ni,  0.0 id,  0.0 wa, 42.9 hi,  3.6 si,  0.0 st
+MiB Mem :   1827.1 total,     78.5 free,   1695.9 used,     52.7 buff/cache
+MiB Swap:    820.0 total,     26.3 free,    793.7 used.     31.9 avail Mem 
+   3968 root      20   0 2335676   1.5g    736 R  20.0  84.1   0:24.01 mem.bash
+

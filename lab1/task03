@@ -1,0 +1,21 @@
+#!/bin/bash
+PS3="Select option: "
+select opt in Nano Vi Links Exit
+do
+	case $opt in
+		"Nano")
+			nano
+			break;;
+		"Vi")
+			vi
+			break;;
+		"Links")
+			links
+			break;;
+		"Exit")
+			echo "We're done"
+			break;;
+		*)
+			echo "Unknown option";;
+	esac
+done

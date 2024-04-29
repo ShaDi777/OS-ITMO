@@ -1,0 +1,29 @@
+#!/bin/bash
+
+proc_pid=$(
+	ls -d /proc/* |
+	grep -E -o "[0-9]+" |
+	while read pid
+	do
+		memory=$(
+			grep -s 'VmRSS' /proc/$pid/status |
+			awk '{print $2}'
+		)
+		echo "$memory $pid"
+	done |
+	sort -r -k1 -n |
+	head --lines=1 |
+	awk '{print $2}'
+)
+
+top_pid=$(
+	top -b -n 1 |
+	sed 1,7d |
+	awk '{print $1, $10}' |
+	sort -r -k2 -n |
+	head --lines=1 |
+	awk '{print $1}'
+)
+
+echo "From /proc found PID=$proc_pid"
+echo "From top found PID=$top_pid"
